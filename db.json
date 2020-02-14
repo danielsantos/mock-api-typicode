@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id": 1, "name": "John" },
+    { "id": 2, "name": "Maria" },
+    { "id": 3, "name": "Mark" },
+	{ "id": 4, "name": "Catherine" }
+  ],
+  "status": [
+    { "id": 0, "description": "WAITING_CONFIRMATION" },
+    { "id": 1, "description": "ACTIVE" },
+    { "id": 2, "description": "INACTIVE" },
+	{ "id": 4, "description": "CANCELED" }
+  ],
+  "country": {
+	"name": "Brazil"
+  }
+}
